@@ -40,9 +40,9 @@ body {
     .content2 {
         display: flex;
         padding: 5%;
-        background: #1c6785d4;
+      /*  background: #e7edefd4;  */
         justify-content: space-between;
-        color: #1c6785d4;
+       color: #1c6785d4;
         text-align: center;
     }  
     .L , .R , .M {
@@ -51,7 +51,7 @@ body {
         margin: 0 1%; 
         padding: 2% ; 
         box-sizing: border-box; 
-        background-color: #e7edefd4;
+        background-color: #e1ebefd4;
         border-radius: 15%;
         line-height: 120%;
    
